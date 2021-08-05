@@ -1,2 +1,2 @@
-# CMBMapBasedScanSystematics
+# MBSS4CMB (Map-Based Scanning strategy Systematics for Cosmic Microwave Background surveys)
 Coming Soon...
